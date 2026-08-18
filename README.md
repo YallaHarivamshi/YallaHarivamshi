@@ -28,67 +28,70 @@
 
 🖥️ Compute
 
-<p>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/AMI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Auto%20Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Elastic%20Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>💾 Storage
+"EC2" "AMI" "Auto Scaling" "Elastic Beanstalk"
 
-<p>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/EFS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/S3%20Glacier-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Storage%20Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>🌐 Networking & Content Delivery
+💾 Storage
 
-<p>
-<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Subnets-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Route%20Tables-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Internet%20Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/NAT%20Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white">
-</p>🔐 Security & Identity
+"S3" "EBS" "EFS" "S3 Glacier"
 
-<p>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white">
-<img src="https://img.shields.io/badge/Security%20Groups-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/NACL-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Secrets%20Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>🗄️ Databases
+🌐 Networking
 
-<p>
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-<img src="https://img.shields.io/badge/Read%20Replica-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Snapshots-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>📊 Monitoring & Management
+"VPC" "Subnets" "Route Tables" "Internet Gateway" "NAT Gateway" "Route 53" "CloudFront"
 
-<p>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white">
-<img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Systems%20Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>⚡ Serverless & Messaging
+🔐 Security
 
-<p>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-<img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white">
-<img src="https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonsns&logoColor=white">
-<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white">
-</p>📦 Containers
+"IAM" "Security Groups" "NACL" "KMS" "Secrets Manager"
 
-<p>
-<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white">
-<img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>🔄 Data Transfer & Deployment
+🗄️ Databases
 
-<p>
-<img src="https://img.shields.io/badge/DataSync-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Blue--Green%20Deployment-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
+"RDS" "Read Replicas" "Snapshots"
+
+📊 Monitoring & Management
+
+"CloudWatch" "CloudTrail" "Systems Manager"
+
+⚡ Serverless & Messaging
+
+"Lambda" "SQS" "SNS" "API Gateway"
+
+📦 Containers
+
+"ECS" "ECR"
+
+---
+
+🐧 Linux
+
+"Linux" "Ubuntu" "CentOS"
+
+- 📁 File & directory management
+- 👤 Users & groups
+- 🔐 File permissions
+- ⚙️ Processes & services
+- 🔧 "systemctl"
+- 💽 Disk management
+- 🔗 SSH
+- 🌐 Networking commands
+- 🛠️ System troubleshooting
+- 📜 Bash / Shell scripting
+
+---
+
+🔧 DevOps Tools
+
+"Git" "GitHub" "Docker" "Jenkins" "CI/CD"
+
+---
+
+🌐 Networking
+
+"TCP/IP" "DNS" "HTTP/HTTPS" "SSH" "VPC" "Subnets" "Routing"
+
+---
+
+💻 Programming & Scripting
+
+"Python" "Bash"
 
 
 
