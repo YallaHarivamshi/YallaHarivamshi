@@ -22,23 +22,78 @@
 - 🎯 Career Goal: DevOps Engineer / Cloud Engineer
 
 ---
-
 ☁️ Cloud & DevOps Learning
 
-AWS
+☁️ AWS Cloud
 
-Area| Services / Concepts
-🖥️ Compute| EC2, AMI, Auto Scaling
-💾 Storage| S3, EBS, EFS, Glacier
-🌐 Networking| VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway
-🔐 Security| IAM, Security Groups, NACL, KMS
-🗄️ Database| RDS, Read Replicas, Snapshots
-🌍 Networking & Delivery| Route 53, CloudFront
-📊 Monitoring| CloudWatch, CloudTrail
-⚡ Serverless| Lambda
-📨 Messaging| SQS, SNS
-📦 Containers| ECS, ECR
-🏗️ Infrastructure| CloudFormation
+🖥️ Compute
+
+"EC2" "AMI" "Auto Scaling" "Elastic Beanstalk"
+
+💾 Storage
+
+"S3" "EBS" "EFS" "S3 Glacier"
+
+🌐 Networking
+
+"VPC" "Subnets" "Route Tables" "Internet Gateway" "NAT Gateway" "Route 53" "CloudFront"
+
+🔐 Security
+
+"IAM" "Security Groups" "NACL" "KMS" "Secrets Manager"
+
+🗄️ Databases
+
+"RDS" "Read Replicas" "Snapshots"
+
+📊 Monitoring & Management
+
+"CloudWatch" "CloudTrail" "Systems Manager"
+
+⚡ Serverless & Messaging
+
+"Lambda" "SQS" "SNS" "API Gateway"
+
+📦 Containers
+
+"ECS" "ECR"
+
+---
+
+🐧 Linux
+
+"Linux" "Ubuntu" "CentOS"
+
+- 📁 File & directory management
+- 👤 Users & groups
+- 🔐 File permissions
+- ⚙️ Processes & services
+- 🔧 "systemctl"
+- 💽 Disk management
+- 🔗 SSH
+- 🌐 Networking commands
+- 🛠️ System troubleshooting
+- 📜 Bash / Shell scripting
+
+---
+
+🔧 DevOps Tools
+
+"Git" "GitHub" "Docker" "Jenkins" "CI/CD"
+
+---
+
+🌐 Networking
+
+"TCP/IP" "DNS" "HTTP/HTTPS" "SSH" "VPC" "Subnets" "Routing"
+
+---
+
+💻 Programming & Scripting
+
+"Python" "Bash"
+
+
 
 🐧 Linux
 
