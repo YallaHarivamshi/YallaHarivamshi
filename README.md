@@ -28,35 +28,35 @@
 
 🖥️ Compute
 
-"EC2" "AMI" "Auto Scaling" "Elastic Beanstalk"
+"EC2"  "AMI"  "Auto Scaling"  "Elastic Beanstalk"
 
 💾 Storage
 
-"S3" "EBS" "EFS" "S3 Glacier"
+"S3"  "EBS"  "EFS"  "S3 Glacier"
 
 🌐 Networking
 
-"VPC" "Subnets" "Route Tables" "Internet Gateway" "NAT Gateway" "Route 53" "CloudFront"
+"VPC"  "Subnets"  "Route Tables"  "Internet Gateway"  "NAT Gateway"  "Route 53"  "CloudFront"
 
 🔐 Security
 
-"IAM" "Security Groups" "NACL" "KMS" "Secrets Manager"
+"IAM"  "Security Groups"  "NACL"  "KMS"  "Secrets Manager"
 
 🗄️ Databases
 
-"RDS" "Read Replicas" "Snapshots"
+"RDS"  "Read Replicas"  "Snapshots"
 
 📊 Monitoring & Management
 
-"CloudWatch" "CloudTrail" "Systems Manager"
+"CloudWatch"  "CloudTrail"  "Systems Manager"
 
 ⚡ Serverless & Messaging
 
-"Lambda" "SQS" "SNS" "API Gateway"
+"Lambda"  "SQS"  "SNS"  "API Gateway"
 
 📦 Containers
 
-"ECS" "ECR"
+"ECS"  "ECR"
 
 ---
 
