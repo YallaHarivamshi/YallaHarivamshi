@@ -11,7 +11,7 @@
 
 🚀 About Me
 
-- 🎓 Final-year B.Tech student in Electronics & Communication Engineering
+- 🎓 B.Tech Graduated in Electronics & Communication Engineering
 - ☁️ Currently building hands-on skills in AWS Cloud and DevOps
 - 🐧 Practicing Linux administration, shell commands and troubleshooting
 - 🔧 Learning Git, GitHub, Docker and CI/CD
@@ -147,17 +147,42 @@
 
 🚀 Featured Projects
 
-☁️ AWS RDS Database & Read Replica Lab
+☁️ AWS Storage Gateway Lab
 
-AWS | RDS | PostgreSQL/MySQL | Security Groups | Snapshots
+AWS | Storage Gateway | S3 | Hybrid Cloud Storage
 
-- 🚀 Created and configured Amazon RDS database instances
-- 🔐 Configured Security Groups and database ports
-- 🔗 Connected to RDS using a database client
-- 🗄️ Practiced database creation and table operations
-- 💾 Created manual RDS snapshots
-- 🔄 Practiced snapshot copy and database recovery concepts
-- 🌍 Explored cross-region database and read-replica concepts
+- 🔗 Explored hybrid cloud storage using AWS Storage Gateway
+- ☁️ Connected on-premises storage concepts with AWS cloud storage
+- 💾 Practiced cloud-backed storage and data access concepts
+- 🔄 Learned how Storage Gateway supports hybrid storage environments
+- 🛠️ Studied different Storage Gateway options and their use cases
+
+---
+
+🔄 AWS DataSync Lab
+
+AWS | DataSync | S3 | Data Transfer
+
+- 🚀 Practiced AWS DataSync concepts for transferring data between storage locations
+- 📦 Explored data migration between on-premises environments and AWS
+- ☁️ Worked with AWS storage services as data-transfer destinations
+- ⚡ Learned how DataSync simplifies and accelerates large-scale data transfers
+- 🔐 Studied secure and managed data-transfer workflows
+
+---
+
+🔵🟢 AWS Blue-Green Deployment
+
+AWS | EC2 | Load Balancer | Auto Scaling | Deployment Strategy
+
+- 🔵🟢 Practiced the Blue-Green Deployment strategy for application releases
+- 🏗️ Created separate environments for the current and new application versions
+- ⚖️ Used load-balancing concepts to control traffic between environments
+- 🔄 Practiced switching traffic from the Blue environment to the Green environment
+- 🛡️ Learned how Blue-Green deployment helps reduce application downtime and deployment risk
+- ↩️ Explored rollback concepts by routing traffic back to the previous environment
+
+
 
 ---
 
