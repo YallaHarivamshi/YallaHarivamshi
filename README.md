@@ -310,7 +310,23 @@ I'm interested in opportunities related to:
 
 💼 LinkedIn
 
-Yalla Harivamshi
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="LINKEDIN_URL_HERE">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:vamshiyalla123@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+⭐ Open to entry-level Cloud / DevOps opportunities
+</p>
 
 📧 Email
 
