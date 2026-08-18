@@ -113,15 +113,53 @@
 
 ---
 
-🔧 DevOps Tools
+🛠️ DevOps Tools
 
-"Git" "GitHub" "Docker" "Jenkins" "CI/CD"
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+</p>🔧 DevOps Practices
 
----
+<p>
+<img src="https://img.shields.io/badge/Version%20Control-181717?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Continuous%20Integration-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Continuous%20Deployment-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>---
 
 🌐 Networking
 
-"TCP/IP" "DNS" "HTTP/HTTPS" "SSH" "VPC" "Subnets" "Routing"
+🔌 Core Networking
+
+<p>
+<img src="https://img.shields.io/badge/TCP%2FIP-005C84?style=for-the-badge">
+<img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-005C84?style=for-the-badge">
+<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white">
+</p>☁️ AWS Networking
+
+<p>
+<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Subnets-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Route%20Tables-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Internet%20Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/NAT%20Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Security%20Groups-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/NACL-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>🌍 Networking Concepts
+
+- 🔹 IP Addressing & Subnetting
+- 🔹 Public & Private Subnets
+- 🔹 Routing & Route Tables
+- 🔹 DNS
+- 🔹 TCP/IP
+- 🔹 HTTP / HTTPS
+- 🔹 SSH
+- 🔹 Network Security
+- 🔹 Load Balancing
 
 ---
 
