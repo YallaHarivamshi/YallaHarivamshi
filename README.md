@@ -94,26 +94,6 @@
 "Python" "Bash"
 
 
-
-
-
----
-
-🐧 Linux
-
-"Linux" "Ubuntu" "CentOS"
-
-- 📁 File & directory management
-- 👤 Users & groups
-- 🔐 File permissions
-- ⚙️ Processes & services
-- 🔧 "systemctl"
-- 💽 Disk management
-- 🔗 SSH
-- 🌐 Networking commands
-- 🛠️ System troubleshooting
-- 📜 Bash / Shell scripting
-
 ---
 
 🛠️ DevOps Tools
