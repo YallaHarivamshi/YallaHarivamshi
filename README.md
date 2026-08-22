@@ -77,22 +77,6 @@
 
 ---
 
-🔧 DevOps Tools
-
-"Git" "GitHub" "Docker" "Jenkins" "CI/CD"
-
----
-
-🌐 Networking
-
-"TCP/IP" "DNS" "HTTP/HTTPS" "SSH" "VPC" "Subnets" "Routing"
-
----
-
-💻 Programming & Scripting
-
-"Python" "Bash"
-
 
 ---
 
@@ -149,56 +133,6 @@
 💻 Programming & Scripting
 
 "Python" "Bash"
-
-
-
-🐧 Linux
-
-- Linux file system
-- Users & groups
-- File permissions
-- Processes & services
-- "systemctl"
-- Disk management
-- SSH
-- Networking commands
-- Shell commands
-- Troubleshooting
-
-🔧 DevOps Tools
-
-- Git
-- GitHub
-- Docker
-- Jenkins
-- CI/CD
-- Bash / Shell Scripting
-- AWS
-- Linux
-
----
-
-🛠️ Tech Stack
-
-☁️ Cloud
-
-"AWS" "Azure" "Google Cloud"
-
-🐧 Operating Systems
-
-"Linux" "Ubuntu" "CentOS"
-
-🔧 DevOps
-
-"Git" "GitHub" "Docker" "Jenkins" "CI/CD"
-
-💻 Programming & Scripting
-
-"Python" "Bash"
-
-🌐 Networking
-
-"VPC" "TCP/IP" "DNS" "HTTP/HTTPS" "SSH"
 
 ---
 
